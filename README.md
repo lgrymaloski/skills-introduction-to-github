@@ -1,4 +1,7 @@
 
+My Comments:
+  In this activity, we learned the basics of GitLab including GitHub, repositories, branches, commits, and pull reuqests. Fromt hsi activity we gained a better understanding of how to use different features.
+
 <header>
 
 <!--
@@ -31,9 +34,7 @@ Here's a recap of your accomplishments:
 - You created a branch, a commit, and a pull request.
 - You merged a pull request.
 - You made your first contribution! :tada:
-  
-My Comments:
-  In this activity, we learned the basics of GitLab including GitHub, repositories, branches, commits, and pull reuqests. Fromt hsi activity we gained a better understanding of how to use different features.
+
 
 ### What's next?
 
